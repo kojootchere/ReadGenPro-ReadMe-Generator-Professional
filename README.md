@@ -29,7 +29,7 @@ N/A
 Run node index.js in the terminal, follow the on-screen prompts to input your project details, and verify that a README file is correctly generated in the project directory.
 
 ## Questions
-For any questions, please contact me at [https://github.com/kojootchere](https://github.com/https://github.com/kojootchere) or [email me](mailto:kojootchere@gmail.com).
+For any questions, please contact me at [https://github.com/kojootchere](https://github.com/kojootchere) or [email me](mailto:kojootchere@gmail.com).
 
 ## Walkthrough
 
