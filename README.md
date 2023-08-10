@@ -11,7 +11,7 @@ The ReadGenPro: ReadMe Generator Professional is a command-line application desi
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
-- [Walkthrough](#Walkthrough)
+- [Walkthrough](#walkthrough)
 
 ## Installation
 Before using this application, ensure that NPM is installed.
