@@ -11,7 +11,7 @@ The ReadGenPro: ReadMe Generator Professional is a command-line application desi
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
-- [Walkthrough-Video](#Walkthrough-Video)
+- [Walkthrough](#Walkthrough)
 
 ## Installation
 Before using this application, ensure that NPM is installed.
@@ -31,6 +31,6 @@ Run node index.js in the terminal, follow the on-screen prompts to input your pr
 ## Questions
 For any questions, please contact me at [https://github.com/kojootchere](https://github.com/https://github.com/kojootchere) or [email me](mailto:kojootchere@gmail.com).
 
-## Walkthrough Video
+## Walkthrough
 
 Link to Walkthrough Video: [ReadGenPro: ReadMe Generator Professional Walkthrough](https://github.com/kojootchere/ReadGenPro-ReadMe-Generator-Professional/raw/main/ReadGenPro-ReadMe-Generator-Professional_Walkthrough.MOV)
