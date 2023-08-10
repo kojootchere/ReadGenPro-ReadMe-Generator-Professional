@@ -32,4 +32,4 @@ For any questions, please contact me at [https://github.com/kojootchere](https:/
 
 ## Link to Walkthrough Video
 
-Link to Walkthrough Video: ![ReadGenPro-ReadMe-Generator-Professional_Walkthrough](./ReadGenPro-ReadMe-Generator-Professional_Walkthrough.MOV)
+Link to Walkthrough Video: [ReadGenPro-ReadMe-Generator-Professional_Walkthrough](https://github.com/kojootchere/ReadGenPro-ReadMe-Generator-Professional/raw/main/ReadGenPro-ReadMe-Generator-Professional_Walkthrough.MOV)
